@@ -1,0 +1,40 @@
+.container-one{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ 
+    
+}
+.container-one p{
+width: 600px;
+}
+.container-two{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.container-three{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.container-four{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+   
+}
+h2{
+    text-align: center;
+}
+.paragraph{
+    text-align: center;
+}
